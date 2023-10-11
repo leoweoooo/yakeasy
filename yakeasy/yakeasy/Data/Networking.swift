@@ -10,7 +10,7 @@ import Foundation
 /// Group of methods that are used to fetch data from external APIs. 
 class Networking {
     // Global variables used by all fetch functions.
-    private var apiKey = "GsWBmRjVY0b/BgsbfcGcj3iTgmwZUxXC5N/C3IPY/NpNVovwrUVsy0jnwlzBkh9nYQNfphLEBfDYB6HWjMf0OQ=="
+    private var apiKey = ""
     private var scheme = "http"
     private var host = "apis.data.go.kr"
     
